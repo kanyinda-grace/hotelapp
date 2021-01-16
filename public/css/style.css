@@ -1,0 +1,11 @@
+.dispo{
+	background-color: beige;
+	border: 2px solid #DC3545;
+	
+	text-align:center;
+	padding: 10px;
+}
+
+a:hover{
+  text-decoration: none;
+}
